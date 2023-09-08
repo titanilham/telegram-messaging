@@ -1,4 +1,4 @@
-# Telegram messaging<img src="https://github.com/titanilham/telegram-messaging/blob/main/icon.png?raw=true" width="40" height="40"/>
+# Telegram messaging<img src="https://github.com/titanilham/telegram-messaging/blob/main/icon.png?raw=true" width="35"/>
 
 ### Send messages to telegram using Python
 
