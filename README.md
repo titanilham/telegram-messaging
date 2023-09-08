@@ -1,2 +1,3 @@
-# telegram-messaging
-send messages to telegram using Python
+# Telegram messaging
+
+### Send messages to telegram using Python
