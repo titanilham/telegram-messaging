@@ -1,4 +1,4 @@
-# Telegram messaging
+# Telegram messaging :email:
 
 ### Send messages to telegram using Python 
 
