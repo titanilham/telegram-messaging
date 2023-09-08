@@ -1,4 +1,5 @@
 # Telegram messaging
+<img src="https://icons8.ru/icon/63306/телеграмма-app" width="40" height="40"/>
 
 ### Send messages to telegram using Python
 
