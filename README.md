@@ -1,6 +1,6 @@
 # Telegram messaging :email:
 
-### Send telegram messages using python and request only
+### Send telegram messages using python and requests only
 
 ##
 
